@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+h1 {
+    font-size: 40px;
+}
+
 .header-container {
     background-image: url(images/donation13.jpg);
     width: 100%;
@@ -30,4 +34,31 @@
     border-radius: 5px;
     margin-top: 25px;
     padding: 15px 20px;
+}
+
+.donate-container {
+    text-align: center;
+    padding: 50px;
+}
+
+.donate-element {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 80px 250px;
+}
+
+.donate-amount {
+    width: 100px;
+    height: 80px;
+    background-color: #e4e1e1;
+    border-radius: 4px;
+    color: rgb(123, 126, 128);
+    text-align: center;
+}
+
+#donate-input {
+    width: 400px;
+    border: none;
+    border-bottom: 1px solid grey;
+    text-align: center;
 }
