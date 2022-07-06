@@ -5,16 +5,16 @@
 
 h1 {
     font-size: 40px;
-    padding-bottom: 15px;
+    margin-bottom: 15px;
 }
 
 h3 {
-    padding-bottom: 15px;
+    margin-bottom: 15px;
 }
 
 h4 {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .header-container {
