@@ -32,7 +32,7 @@ h1 {
     background-color: tomato;
     border: none;
     border-radius: 5px;
-    margin-top: 25px;
+    margin-top: 20px;
     padding: 15px 20px;
 }
 
@@ -57,6 +57,7 @@ h1 {
 
 #donate-input {
     width: 400px;
+    height: 35px;
     border: none;
     border-bottom: 1px solid grey;
     text-align: center;
@@ -92,4 +93,33 @@ h1 {
 
 #donate-plan-item-bg3 {
     background-color: #5276db;
+}
+
+.get-update-form {
+    width: 600px;
+    height: 100px;
+    background-color: #eeaa91;
+    border-radius: 2px;
+    margin: 20px 330px;
+    padding: 20px;
+
+}
+
+.get-update-input {
+    border: none;
+    width: 250px;
+    height: 35px;
+    border-radius: 4px;
+    margin-bottom: 0px;
+
+
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    font-style: italic;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 30px;
 }
